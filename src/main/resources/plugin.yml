@@ -1,0 +1,6 @@
+name: NationAnalyzer
+version: 1.0.0
+main: io.github.luizotavio.PacketPlugin
+author: Wizard
+depend:
+  - ProtocolLib
